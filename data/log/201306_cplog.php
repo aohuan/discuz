@@ -1,0 +1,13 @@
+<?PHP exit;?>	1371690270	admin	1	127.0.0.1		GET={}; POST={};
+<?PHP exit;?>	1371690273	admin	1	127.0.0.1	index	GET={}; POST={};
+<?PHP exit;?>	1371690278	admin	1	127.0.0.1	forums	GET={}; POST={};
+<?PHP exit;?>	1371690285	admin	1	127.0.0.1	announce	GET={}; POST={};
+<?PHP exit;?>	1371690289	admin	1	127.0.0.1	plugins	GET={}; POST={};
+<?PHP exit;?>	1371690291	admin	1	127.0.0.1	tools	GET={operation=updatecache; }; POST={};
+<?PHP exit;?>	1371690293	admin	1	127.0.0.1	misc	GET={operation=cron; }; POST={};
+<?PHP exit;?>	1371690688	admin	1	127.0.0.1	misc	GET={operation=cron; edit=20; }; POST={};
+<?PHP exit;?>	1371715360	admin	1	127.0.0.1		GET={}; POST={};
+<?PHP exit;?>	1371715364	admin	1	127.0.0.1	index	GET={}; POST={};
+<?PHP exit;?>	1371715370	admin	1	127.0.0.1	forums	GET={}; POST={};
+<?PHP exit;?>	1371716968	admin	1	127.0.0.1		GET={}; POST={};
+<?PHP exit;?>	1371716971	admin	1	127.0.0.1	index	GET={}; POST={};

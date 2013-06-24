@@ -8,5 +8,5 @@
 
 $_GET['mod'] = 'manage';
 require_once 'userapp.php';
-echo'fff';
+
 ?>

@@ -7,5 +7,5 @@
  */
 
 $_GET['mod'] = 'manage';
-require_once 'userapp.php';ddd
+require_once 'userapp.php';
 ?>
